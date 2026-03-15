@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Gee",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-03-15T13:44:44.895779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gee (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_Gee_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gee (without Main Vocal)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_Gee_(without_Main_Vocal)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_Gee_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/09_Fu-Gee-La_Fugees.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fu-Gee-La (Oddisee remix)",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/10_Fu-Gee-La_(Oddisee_remix)_Fugees.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fu-Gee-La",
+      "artist": "Fugees feat. Ms. Lauryn Hill, Wyclef Jean & Pras",
+      "has_synced": true,
+      "path": "select/11_Fu-Gee-La_Fugees_feat._Ms._Lauryn_Hill,_Wyclef_Jean_&_Pras.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fu-Gee-La (Sly & Robbie Mix)",
+      "artist": "Fugees (Refugee Camp)",
+      "has_synced": true,
+      "path": "select/12_Fu-Gee-La_(Sly_&_Robbie_Mix)_Fugees_(Refugee_Camp).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alles (prod. GEE Futuristic & Yung Nikki3000)",
+      "artist": "LGoony & Crack Ignaz",
+      "has_synced": false,
+      "path": "select/13_Alles_(prod._GEE_Futuristic_&_Yung_Nikki3000)_LGoony_&_Crack_Ignaz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Für Immer (prod. GEE Futuristic & Nikki 3k)",
+      "artist": "LGoony",
+      "has_synced": true,
+      "path": "select/14_Für_Immer_(prod._GEE_Futuristic_&_Nikki_3k)_LGoony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_02_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_03_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_04_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_05_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_06_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_07_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_08_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_09_Gee_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Gee",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_10_Gee_少女時代.txt"
+    }
+  ]
+}
